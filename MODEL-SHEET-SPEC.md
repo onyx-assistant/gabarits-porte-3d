@@ -52,7 +52,7 @@ Silhouette : x 264..1325, y 258..1599 (le bas est coupé par le cadre — c'est 
 | Épaules | la largeur repart à la hausse dès y ≈ 1180 | 1,06 T sous le crâne |
 | Torse au bas du cadre | ≈ 1049 px bras compris (≈ 960 px torse seul, estimé) | ≈ 1,12 LT bras compris |
 
-Couleurs échantillonnées sur la photo (variables avec l'éclairage — **la charte fait foi** : lumière #FC8B32, médian #C95D1D, ombre #8D2E0F) : front éclairé #F4741E, joue en mi-ombre #AA4716, torse #D35B17.
+Couleurs échantillonnées sur la photo (variables avec l'éclairage — **la charte fait foi** : lumière #FC8B32, médian #C95D1D, ombre #812900) : front éclairé #F4741E, joue en mi-ombre #AA4716, torse #D35B17.
 
 ### Écarts avec les valeurs d'orientation du PLAN-3D (§0)
 

@@ -14,7 +14,7 @@ _Outil associé : `mesurer_porte.py` (même dossier) — Blender **headless** (t
 | `references/onyx-canonique.webp` (MD5 `2615852ff83d36e6468342cfbd5c8a8b8`) ; copie de travail `assets/onyx-reference.png` | Référence maîtresse de face, sur laquelle la spec a été mesurée |
 | `tests/ltx-flat-eric-groove/onyx-i2v-input-3q-1088x1920.png` (MD5 `86158194db00f40309b0fb26e2598538`) | Vue trois-quarts canonique (entrée de référence des chaînes de production) |
 | `00_canonical/3d-v1/` (vues retenues + manifeste SHA-256) | Vues canoniques trois-quarts / profil / dos, buste et corps entier |
-| `docs/CHARTE-GRAPHIQUE.md` § 3 | Palette : lumière `#FC8B32`, médian `#C95D1D`, ombre `#8D2E0F` |
+| `docs/CHARTE-GRAPHIQUE.md` § 3 | Palette : lumière `#FC8B32`, médian `#C95D1D`, ombre `#812900` |
 
 ## 2. Conventions de repère (figées par ce gabarit)
 
