@@ -6,7 +6,7 @@ license: mit
 
 # gabarits-porte-3d — mesurer le modèle 3D avant de le croire
 
-La voie 3D de l'atelier fabrique un modèle d'Onyx (la peluche orange
+La voie 3D de l'atelier fabrique un modèle d'Onyx (la peluche
 virtuelle de Montréal) utilisable partout : vidéo produite, temps réel,
 jeux. Mais un modèle généré « qui a l'air bien » ne suffit pas — il doit
 **passer la porte** : les mêmes mesures, à chaque itération, avec des
